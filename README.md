@@ -21,3 +21,5 @@ Esse é um projetinho que eu fiz pra treinar JavaScript e mexer com o DOM.
 
 - Fiz esse projeto sozinho, só pra praticar e aprender a mexer com listas e eventos.  
 - O visual é simples, mas cumpre a função 😄
+
+- https://viktinc007-blip.github.io/lista-de-tarefas/
