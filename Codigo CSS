@@ -1,0 +1,23 @@
+Codigo css
+
+## CSS
+body {
+  font-family: Arial;
+  text-align: center;
+  background-color: #f9f9f9; /* deixa o fundo mais claro, opcional */
+  padding: 20px; /* afasta do topo */
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 10px; /* espaço entre input e botão */
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #28a745; /* verde simples */
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
