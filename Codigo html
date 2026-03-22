@@ -1,0 +1,30 @@
+## 🖥️ Código principal
+
+Aqui estão as partes mais importantes do projeto, mostrando como adicionar e excluir tarefas.
+
+### <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Minha Lista</title>
+  <!-- Link para o arquivo de estilos CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Título da página -->
+  <h1>Lista de Tarefas</h1>
+
+  <!-- Campo de input para digitar novas tarefas -->
+  <input id="tarefa" placeholder="Digite uma tarefa">
+
+  <!-- Botão que chama a função adicionar() quando clicado -->
+  <button onclick="adicionar()">Adicionar</button>
+
+  <!-- Lista onde as tarefas vão aparecer -->
+  <ul id="lista"></ul>
+
+  <!-- Conecta o arquivo de JavaScript que contém a lógica -->
+  <script src="mecanica.js"></script>
+</body>
+</html>
